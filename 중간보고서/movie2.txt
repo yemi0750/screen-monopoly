@@ -1,0 +1,425 @@
+﻿
+<section class="layer_content">
+ <div class="ltabMenu">
+  <a class="layer_prev" href="#none" onclick="dtlPrev();return false;" onkeypress="dtlPrev();return false;">
+   <img alt="이전 레이어 팝업 이동" src="/kobis/web/comm/images/common/btn_layer_prev.gif"/>
+  </a>
+  <a class="layer_close" href="#none" onclick="dtlRmAll();return false;" onkeypress="dtlRmAll();return false;">
+   <img alt="레이어 팝업 닫기" src="/kobis/web/comm/images/common/btn_layer_close.gif"/>
+  </a>
+  <div class="mtitle">
+   <span class="w80pB">
+    <strong>
+     성난황소
+    </strong>
+    (Unstoppable)
+    <span class="run">
+     영화상영관상영중
+    </span>
+   </span>
+  </div>
+  <ul class="tab_layer">
+   <li>
+    <a class="current" href="#none">
+     기본정보
+    </a>
+   </li>
+   <li>
+    <a href="#none">
+     통계정보
+    </a>
+   </li>
+   <li class="last-child">
+    <a href="#none">
+     <!--img src="/kobis/web/comm/images/comm/new_img1.png" alt="NEW" style="position: absolute; left: 272px; top:52px;" /-->
+     상영현황정보
+    </a>
+   </li>
+   <li class="sns">
+    <a href="#none" onclick="sendTwitter('영화 \'성난황소\'의 상세정보','http://www.kobis.or.kr:80/kobis/business/mast/mvie/searchMovieList.do?dtTp=movie&amp;dtCd=20184481');return false;">
+     <img alt="트위터" src="/kobis/web/comm/images/common/tweeter.gif"/>
+    </a>
+   </li>
+   <li class="sns">
+    <a href="#none" onclick="sendFaceBook('영화 \'성난황소\'의 상세정보 보러가기','http://www.kobis.or.kr:80/kobis/business/mast/mvie/searchMovieList.do?dtTp=movie&amp;dtCd=20184481');return false;">
+     <img alt="페이스북" src="/kobis/web/comm/images/common/facebook.gif"/>
+    </a>
+   </li>
+  </ul>
+ </div>
+</section>
+<delimiter>
+</delimiter>
+<section class="layer_content dtlLayer">
+ <div class="scroll">
+  <p class="alignR">
+   <span class="f11">
+    최종수정: 2018-11-22 11:10:23
+   </span>
+   <a class="btn_type07" href="/kobis/business/comm/bord/insertTip.do?dtTp=movie&amp;dtCd=20184481">
+    <strong>
+     수정요청
+    </strong>
+   </a>
+  </p>
+  <article class="basicInfo">
+   <a href="/common/mast/movie/2018/10/d679be547f774d23958746d87b265bf6.jpg" onclick="open('/kobis/business/mast/mvie/popupImg.do?imgURL=/common/mast/movie/2018/10/d679be547f774d23958746d87b265bf6.jpg','','');return false;" target="_blank">
+    <img alt="성난황소_메인포스터(화이트).jpg" class="mvie_thumb" onerror="fn_replaceBlankImg(this);" src="/common/mast/movie/2018/10/thumb/thn_d679be547f774d23958746d87b265bf6.jpg"/>
+   </a>
+   <dl>
+    <dt>
+     코드
+    </dt>
+    <dd>
+     <ul>
+      <li>
+       20184481
+      </li>
+      <li class="last-child">
+       <em>
+        ISAN
+       </em>
+       해당정보 없음
+      </li>
+     </ul>
+    </dd>
+    <dt>
+     A.K.A
+    </dt>
+    <dd>
+     해당정보 없음
+    </dd>
+    <dt>
+     요약정보
+    </dt>
+    <dd>
+     <ul>
+      <li>
+       장편
+      </li>
+      <li>
+       일반영화
+      </li>
+      <li>
+       범죄,
+                            		
+                            			액션
+      </li>
+      <li>
+       115분 53초
+      </li>
+      <li>
+       15세이상관람가
+      </li>
+      <li class="last-child">
+       한국
+      </li>
+     </ul>
+    </dd>
+    <dt>
+     개봉일
+    </dt>
+    <dd>
+     <ul>
+      <li>
+       2018-11-22
+      </li>
+      <li>
+       <em>
+        제작연도
+       </em>
+       2018년
+      </li>
+      <li class="last-child">
+       <em>
+        제작상태
+       </em>
+       개봉
+      </li>
+     </ul>
+    </dd>
+    <dt>
+     크랭크인/업
+    </dt>
+    <dd>
+     <ul>
+      <li>
+       2018-05-04 ~ 2018-08-03
+      </li>
+      <li class="last-child">
+       <em>
+        촬영회차
+       </em>
+       58회
+      </li>
+     </ul>
+    </dd>
+    <dt>
+     상영타입
+    </dt>
+    <dd>
+     <strong style="color:#BF3DC8">
+      2D :
+     </strong>
+     디지털(20184481D)
+    </dd>
+   </dl>
+  </article>
+  <section class="detailInfo">
+   <div>
+    <h3>
+     포스터
+     <span>
+      (Total : 3건)
+     </span>
+    </h3>
+    <div class="still" id="post">
+     <span class="rollL1">
+      <img alt="이전 이미지" src="/kobis/web/comm/images/common/rollingL.png"/>
+     </span>
+     <div class="rollList1">
+      <ul>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/d679be547f774d23958746d87b265bf6.jpg','성난황소', 'post');">
+         <img alt="성난황소_메인포스터(화이트).jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/d679be547f774d23958746d87b265bf6.jpg" src="/common/mast/movie/2018/10/thumb/thn_d679be547f774d23958746d87b265bf6.jpg" style="width: 90px;height: 129px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/f8e801afb93b470da12cb75afcbb1b60.jpg','성난황소', 'post');">
+         <img alt="성난황소_메인포스터(블랙).jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/f8e801afb93b470da12cb75afcbb1b60.jpg" src="/common/mast/movie/2018/10/thumb/thn_f8e801afb93b470da12cb75afcbb1b60.jpg" style="width: 90px;height: 129px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/bc45a7030b1440f9bde97891f6367de1.jpg','성난황소', 'post');">
+         <img alt="155938_성난황소_1차포스터.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/bc45a7030b1440f9bde97891f6367de1.jpg" src="/common/mast/movie/2018/10/thumb/thn_bc45a7030b1440f9bde97891f6367de1.jpg" style="width: 90px;height: 129px;"/>
+        </a>
+       </li>
+       <div id="photoDtlInfo1" style="display:none;">
+        <input alt="성난황소_메인포스터(화이트).jpg" img="/common/mast/movie/2018/10/d679be547f774d23958746d87b265bf6.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_d679be547f774d23958746d87b265bf6.jpg" type="hidden"/>
+        <input alt="성난황소_메인포스터(블랙).jpg" img="/common/mast/movie/2018/10/f8e801afb93b470da12cb75afcbb1b60.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_f8e801afb93b470da12cb75afcbb1b60.jpg" type="hidden"/>
+        <input alt="155938_성난황소_1차포스터.jpg" img="/common/mast/movie/2018/10/bc45a7030b1440f9bde97891f6367de1.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_bc45a7030b1440f9bde97891f6367de1.jpg" type="hidden"/>
+       </div>
+      </ul>
+     </div>
+     <span class="rollR1">
+      <img alt="다음 이미지" src="/kobis/web/comm/images/common/rollingR.png"/>
+     </span>
+    </div>
+   </div>
+   <div>
+    <h3>
+     스틸컷
+     <span>
+      (Total : 12건)
+     </span>
+    </h3>
+    <div class="still" id="stl">
+     <span class="rollL">
+      <img alt="이전 이미지" src="/kobis/web/comm/images/common/rollingL.png"/>
+     </span>
+     <div class="rollList">
+      <ul>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/7c361b45649f434790ec229a33adb278.JPG','성난황소', 'stl');">
+         <img alt="01.JPG" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/7c361b45649f434790ec229a33adb278.JPG" src="/common/mast/movie/2018/10/thumb/thn_7c361b45649f434790ec229a33adb278.JPG" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/8f42349bb29f432db270e62be4591a70.jpg','성난황소', 'stl');">
+         <img alt="02.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/8f42349bb29f432db270e62be4591a70.jpg" src="/common/mast/movie/2018/10/thumb/thn_8f42349bb29f432db270e62be4591a70.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/11faf6d463ee43e8b4b85c6c9ec3129b.JPG','성난황소', 'stl');">
+         <img alt="03.JPG" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/11faf6d463ee43e8b4b85c6c9ec3129b.JPG" src="/common/mast/movie/2018/10/thumb/thn_11faf6d463ee43e8b4b85c6c9ec3129b.JPG" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/eaeb2eb6865e43f4aa18c182448ab7a8.jpg','성난황소', 'stl');">
+         <img alt="04.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/eaeb2eb6865e43f4aa18c182448ab7a8.jpg" src="/common/mast/movie/2018/10/thumb/thn_eaeb2eb6865e43f4aa18c182448ab7a8.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/4cf08922d88e448ab3de9ac1082e2a0c.jpg','성난황소', 'stl');">
+         <img alt="05.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/4cf08922d88e448ab3de9ac1082e2a0c.jpg" src="/common/mast/movie/2018/10/thumb/thn_4cf08922d88e448ab3de9ac1082e2a0c.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/102d7726453e4eaa96ce7ccf70d3fffa.jpg','성난황소', 'stl');">
+         <img alt="06.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/102d7726453e4eaa96ce7ccf70d3fffa.jpg" src="/common/mast/movie/2018/10/thumb/thn_102d7726453e4eaa96ce7ccf70d3fffa.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/08673aad8e8643e4b8790d0ab55f2c91.jpg','성난황소', 'stl');">
+         <img alt="07.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/08673aad8e8643e4b8790d0ab55f2c91.jpg" src="/common/mast/movie/2018/10/thumb/thn_08673aad8e8643e4b8790d0ab55f2c91.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/38953d731191441a921ab50237301ec0.jpg','성난황소', 'stl');">
+         <img alt="08.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/38953d731191441a921ab50237301ec0.jpg" src="/common/mast/movie/2018/10/thumb/thn_38953d731191441a921ab50237301ec0.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/ab488b65655f4015ad31f210e09f1d57.JPG','성난황소', 'stl');">
+         <img alt="09.JPG" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/ab488b65655f4015ad31f210e09f1d57.JPG" src="/common/mast/movie/2018/10/thumb/thn_ab488b65655f4015ad31f210e09f1d57.JPG" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/e666043897ed47789e034242e3faf0e1.JPG','성난황소', 'stl');">
+         <img alt="10.JPG" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/e666043897ed47789e034242e3faf0e1.JPG" src="/common/mast/movie/2018/10/thumb/thn_e666043897ed47789e034242e3faf0e1.JPG" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/79590c6d51ef4432a8d5a1118a5c24dd.jpg','성난황소', 'stl');">
+         <img alt="11.jpg" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/79590c6d51ef4432a8d5a1118a5c24dd.jpg" src="/common/mast/movie/2018/10/thumb/thn_79590c6d51ef4432a8d5a1118a5c24dd.jpg" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="#none" onclick="fn_photoDtl('/common/mast/movie/2018/10/402b63d4268949e39b9f918a122a7856.JPG','성난황소', 'stl');">
+         <img alt="12.JPG" onerror="fn_replaceBlankImg(this);" orgsrc="/common/mast/movie/2018/10/402b63d4268949e39b9f918a122a7856.JPG" src="/common/mast/movie/2018/10/thumb/thn_402b63d4268949e39b9f918a122a7856.JPG" style="width: 80px;height: 55px;"/>
+        </a>
+       </li>
+       <div id="photoDtlInfo" style="display:none;">
+        <input alt="01.JPG" img="/common/mast/movie/2018/10/7c361b45649f434790ec229a33adb278.JPG" thn_img="/common/mast/movie/2018/10/thumb/thn_7c361b45649f434790ec229a33adb278.JPG" type="hidden"/>
+        <input alt="02.jpg" img="/common/mast/movie/2018/10/8f42349bb29f432db270e62be4591a70.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_8f42349bb29f432db270e62be4591a70.jpg" type="hidden"/>
+        <input alt="03.JPG" img="/common/mast/movie/2018/10/11faf6d463ee43e8b4b85c6c9ec3129b.JPG" thn_img="/common/mast/movie/2018/10/thumb/thn_11faf6d463ee43e8b4b85c6c9ec3129b.JPG" type="hidden"/>
+        <input alt="04.jpg" img="/common/mast/movie/2018/10/eaeb2eb6865e43f4aa18c182448ab7a8.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_eaeb2eb6865e43f4aa18c182448ab7a8.jpg" type="hidden"/>
+        <input alt="05.jpg" img="/common/mast/movie/2018/10/4cf08922d88e448ab3de9ac1082e2a0c.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_4cf08922d88e448ab3de9ac1082e2a0c.jpg" type="hidden"/>
+        <input alt="06.jpg" img="/common/mast/movie/2018/10/102d7726453e4eaa96ce7ccf70d3fffa.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_102d7726453e4eaa96ce7ccf70d3fffa.jpg" type="hidden"/>
+        <input alt="07.jpg" img="/common/mast/movie/2018/10/08673aad8e8643e4b8790d0ab55f2c91.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_08673aad8e8643e4b8790d0ab55f2c91.jpg" type="hidden"/>
+        <input alt="08.jpg" img="/common/mast/movie/2018/10/38953d731191441a921ab50237301ec0.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_38953d731191441a921ab50237301ec0.jpg" type="hidden"/>
+        <input alt="09.JPG" img="/common/mast/movie/2018/10/ab488b65655f4015ad31f210e09f1d57.JPG" thn_img="/common/mast/movie/2018/10/thumb/thn_ab488b65655f4015ad31f210e09f1d57.JPG" type="hidden"/>
+        <input alt="10.JPG" img="/common/mast/movie/2018/10/e666043897ed47789e034242e3faf0e1.JPG" thn_img="/common/mast/movie/2018/10/thumb/thn_e666043897ed47789e034242e3faf0e1.JPG" type="hidden"/>
+        <input alt="11.jpg" img="/common/mast/movie/2018/10/79590c6d51ef4432a8d5a1118a5c24dd.jpg" thn_img="/common/mast/movie/2018/10/thumb/thn_79590c6d51ef4432a8d5a1118a5c24dd.jpg" type="hidden"/>
+        <input alt="12.JPG" img="/common/mast/movie/2018/10/402b63d4268949e39b9f918a122a7856.JPG" thn_img="/common/mast/movie/2018/10/thumb/thn_402b63d4268949e39b9f918a122a7856.JPG" type="hidden"/>
+       </div>
+      </ul>
+     </div>
+     <span class="rollR">
+      <img alt="다음 이미지" src="/kobis/web/comm/images/common/rollingR.png"/>
+     </span>
+    </div>
+   </div>
+   <div>
+    <h3>
+     시놉시스
+    </h3>
+    <p class="contentBreak">
+     거칠었던 과거를 벗어나 수산시장에서 건어물 유통을 하며 건실하게 살던 동철(마동석).
+     <br/>
+     어느 날 아내 지수(송지효)가 납치되고, 경찰에 신고를 하지만 그녀의 행방은 묘연하기만 하다.
+     <br/>
+     그리고 동철에게 걸려 온 납치범(김성오)의 전화!
+     <br/>
+     오히려 지수를 납치한 대가로 거액의 돈을 동철에게 주겠다는 파격 제안을 하고,
+     <br/>
+     이에 폭발한 동철은 지수를 구하기 위해 움직이기 시작하는데…!
+     <br/>
+     느낌 오지? 잘못 건드린 거
+    </p>
+   </div>
+   <div class="staffMore" id="20184481_staff">
+   </div>
+   <div class="moreArea">
+    <h3>
+     영화사
+    </h3>
+    <div style="padding-top:5px;">
+     <ul style="overflow-x: hidden;">
+      <li class="companyDtl1">
+       제작사
+      </li>
+      <li class="companyDtl2">
+       <a href="#none" onclick="mstView('company','20188821');return false;">
+        주식회사 플러스미디어엔터테인먼트  PLUSMEDIA ENTERTAINMENT
+       </a>
+       <a href="#none" onclick="mstView('company','20138935');return false;">
+        (주)비에이엔터테인먼트  B.A. Entertainment
+       </a>
+      </li>
+     </ul>
+     <ul style="overflow-x: hidden;">
+      <li class="companyDtl1">
+       배급사
+      </li>
+      <li class="companyDtl2">
+       <a href="#none" onclick="mstView('company','20100103');return false;">
+        (주)쇼박스  Showbox Corp
+       </a>
+      </li>
+     </ul>
+     <ul style="overflow-x: hidden;">
+      <li class="companyDtl1">
+       제공
+      </li>
+      <li class="companyDtl2">
+       <a href="#none" onclick="mstView('company','20100103');return false;">
+        (주)쇼박스  Showbox Corp
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="moreArea">
+    <h3>
+     등급분류/기술정보
+    </h3>
+    <dl>
+     <dt>
+      등급분류/기술1
+     </dt>
+     <dd>
+      <div class="clbox">
+       <p>
+        [등급분류번호]
+       </p>
+       <ul>
+        <li class="nobar">
+         <em>
+          2018-MF02083
+         </em>
+        </li>
+       </ul>
+      </div>
+      <div class="clbox">
+       <p>
+        [등급분류일자]
+       </p>
+       <ul>
+        <li class="nobar">
+         <em>
+          2018-10-31
+         </em>
+        </li>
+       </ul>
+      </div>
+      <div class="clbox">
+       <p>
+        [관람등급]
+       </p>
+       <ul>
+        <li class="nobar">
+         <em>
+          15세이상관람가
+         </em>
+        </li>
+       </ul>
+      </div>
+     </dd>
+    </dl>
+   </div>
+  </section>
+ </div>
+ <div style="width:750px;margin:0 20px 0 20px;">
+ </div>
+</section>
+<section class="layer_content dtlLayer" style="display:none;">
+ <div class="progressbar" style="width: 100%;text-align: center;">
+  <img alt="현재 페이지를 로딩중입니다." src="/kobis/web/comm/images/common/progressbar.gif"/>
+ </div>
+</section>
+<section class="layer_content dtlLayer" style="display:none;">
+ <div class="progressbar" style="width: 100%;text-align: center;">
+  <img alt="현재 페이지를 로딩중입니다." src="/kobis/web/comm/images/common/progressbar.gif"/>
+ </div>
+</section>
